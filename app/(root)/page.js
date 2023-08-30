@@ -20,7 +20,7 @@ export default function Home() {
           <div className="container mx-auto px-12 lg:px-14 lg:pb-10 lg:-mt-4 lg:flex lg:items-center">
             <div className="lg:w-1/2">
               <h1 className="text-6xl md:text-6xl dark:text-slate-100 font-extrabold mb-6">
-                Welcome to Mojo Dojo
+                Welcome to Okami Academy
               </h1>
               <h2 className="text-xl md:text-2xl font-semibold mb-10 text-red-400 dark:text-red-300">
                 Uncover the Ancient Art of JavaScript
@@ -92,7 +92,7 @@ export default function Home() {
         <div className="lg:hidden">
           <Image
             src="/assets/dojo-hero.jpg"
-            alt="Mojo Dojo Hero Image"
+            alt="Okami Academy Hero Image"
             width={1200}
             height={800}
             className="w-full h-auto top-0 left-0 object-cover"
@@ -104,7 +104,7 @@ export default function Home() {
           <div className="w-100 lg:absolute top-0 left-0 right-0 bottom-0 opacity-80">
             <Image
               src="/assets/dojo-hero.jpg"
-              alt="Mojo Dojo Hero Image"
+              alt="Okami Academy Hero Image"
               style={{objectFit:"cover"}}
               fill={true}
             />

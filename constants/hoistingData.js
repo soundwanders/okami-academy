@@ -12,7 +12,7 @@ const hoistingData = [
 // Example demonstrating variable hoisting
 
 console.log(name); // Output: undefined
-var name = 'Mojo Dojo';
+var name = 'Okami Academy';
     `
   },
   {
