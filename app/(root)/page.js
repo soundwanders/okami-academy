@@ -19,7 +19,7 @@ export default function Home() {
         <header>
           <div className="container mx-auto px-12 lg:px-14 lg:pb-10 lg:-mt-4 lg:flex lg:items-center">
             <div className="lg:w-1/2">
-              <h1 className="text-6xl md:text-6xl dark:text-slate-100 font-extrabold mb-6">
+              <h1 className="text-3xl md:text-6xl dark:text-slate-100 font-extrabold mb-6">
                 Welcome to Okami Academy
               </h1>
               <h2 className="text-xl md:text-2xl font-semibold mb-10 text-red-400 dark:text-red-300">
